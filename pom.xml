@@ -32,8 +32,8 @@
   </scm>
   <properties>
     <!-- 3rd party libraries versions -->
-    <org.exoplatform.platform.version>5.3.x-SNAPSHOT</org.exoplatform.platform.version>
-    <org.exoplatform.wallet.ert-contract.version>1.0.x-SNAPSHOT</org.exoplatform.wallet.ert-contract.version>
+    <org.exoplatform.platform.version>5.3.0-RC04</org.exoplatform.platform.version>
+    <org.exoplatform.wallet.ert-contract.version>1.0.2</org.exoplatform.wallet.ert-contract.version>
 
     <!-- Ethereum We3j for Java library -->
     <org.web3j.version>4.2.0</org.web3j.version>
