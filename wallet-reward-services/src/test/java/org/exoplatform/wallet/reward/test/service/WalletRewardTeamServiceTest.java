@@ -77,6 +77,8 @@ public class WalletRewardTeamServiceTest extends BaseWalletRewardTest {
 
     rewardTeam = rewardTeamService.getTeamsById(rewardTeam.getId());
     assertTrue(rewardTeam.isDeleted());
+
+    entitiesToClean.add(rewardTeam);
   }
 
 }
