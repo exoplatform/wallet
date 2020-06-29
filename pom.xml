@@ -9,7 +9,7 @@
   </parent>
   <groupId>org.exoplatform.addons.wallet</groupId>
   <artifactId>wallet</artifactId>
-  <version>1.0.2-spaces-groups-binding-SNAPSHOT</version>
+  <version>1.0.2-spaces-groups-binding-02</version>
   <packaging>pom</packaging>
   <name>eXo Add-on:: Wallet Add-on</name>
   <description>eXo Wallet Add-on</description>
@@ -27,7 +27,7 @@
     <connection>scm:git:git://github.com/exoplatform/wallet.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/exoplatform/wallet.git</developerConnection>
     <url>https://github.com/exoplatform/wallet</url>
-    <tag>1.0.2</tag>
+    <tag>1.0.2-spaces-groups-binding-02</tag>
   </scm>
   <properties>
     <!-- 3rd party libraries versions -->
